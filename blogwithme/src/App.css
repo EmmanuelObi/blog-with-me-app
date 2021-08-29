@@ -7,7 +7,7 @@
 }
 body, .bg-over {
   width: 100%;
-  height: 180vh;
+  height: 155vh;
 }
 a {
   text-decoration: none !important;
@@ -276,13 +276,7 @@ border: 2px solid crimson;
       bottom: 10px;
       font-size: 12px;
   }
+  .title-search {
+    flex-direction: column;
+  }
 } 
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
